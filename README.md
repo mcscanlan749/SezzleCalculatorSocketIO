@@ -7,6 +7,6 @@ To use the app, you can navigate to this site [here.](https://mysterious-bayou-8
 
 1. Clone the repository
 2. Run 'node index.js' to start the server
-3. Change directory into socket-app
+3. In a separate command prompt, change directory into socket-app
 4. Run 'npm start socket-app'
-5. http:localhost:3000 should open for you 
+5. http:localhost:3000 should open for you to play with calculator
